@@ -18,6 +18,12 @@
 
 </div>
 
+<div align="right">
+
+<img height="20" src="https://komarev.com/ghpvc/?username=sarolus&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+</div>
+
 <!--
 **Sarolus/Sarolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
