@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=sarolus&theme=dark&show_icons=true" />
-
 <img width="168" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarolus&theme=dark" />
 
 <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarolus&theme=dark" />
