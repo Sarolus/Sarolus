@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi folks ! 👋
+
+
+
+## GitHub Stats
+
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=sarolus&theme=dark&show_icons=true" />
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=sarolus&theme=dark&show_icons=true" />
 
-<img width="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarolus&theme=dark" />
+<img width="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarolus&theme=dark" />
 
 </div>
 
