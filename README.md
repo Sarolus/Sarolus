@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img width="500" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarolus&theme=dark" />
+<img width="500" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarolus&theme=dark&v=2" />
 
 </div>
 
