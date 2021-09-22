@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarolus&theme=dark&show_icons=true" />
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=sarolus&theme=dark&show_icons=true" />
 
-<img  height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarolus&theme=dark" />
+<img width="168" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarolus&theme=dark" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarolus&theme=dark" />
+<img width="500" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarolus&theme=dark" />
 
 <!--
 **Sarolus/Sarolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
