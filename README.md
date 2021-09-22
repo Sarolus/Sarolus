@@ -1,8 +1,8 @@
 ### Hi folks ! 👋
 
+## About Me
 
-
-## GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
