@@ -2,6 +2,8 @@
 
 ## :man: About Me
 
+Hello there ! I'm Nathan, currently student at Holberton School.
+
 ## :bar_chart: GitHub Stats
 
 <div align="center">
