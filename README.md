@@ -2,7 +2,7 @@
 
 ## :man: About Me
 
-Hello there ! I'm Nathan, currently student at Holberton School.
+Hello there ! I'm Nathan, currently student at Holberton School. I'm currently following the curriculum of the Machine Learning Specialization with the goal of becoming data scientist in the future.
 
 ## :bar_chart: GitHub Stats
 
@@ -27,6 +27,7 @@ Hello there ! I'm Nathan, currently student at Holberton School.
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=0a83f4&color=2fbf64)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=0aa6f4&color=2fbf64)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=f9db06&color=2fbf64)
+![](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=f9db06&color=2fbf64)
 ![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logoColor=f9db06&color=2fbf64)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logoColor=f9db06&color=2fbf64)
 
@@ -38,6 +39,7 @@ Hello there ! I'm Nathan, currently student at Holberton School.
 ### Framework
 
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=000000&color=f46320)
+![](https://img.shields.io/badge/Framework-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=000000&color=f46320)
 
 ### Databases
 
@@ -46,6 +48,7 @@ Hello there ! I'm Nathan, currently student at Holberton School.
 ### Environment
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=000000&color=2ad2be)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=000000&color=2ad2be)
 
 
 <br/>
