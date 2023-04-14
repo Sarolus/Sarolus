@@ -2,7 +2,11 @@
 
 ## :man: About Me
 
-Hello there ! I'm Nathan, currently student at Holberton School. I'm currently following the curriculum of the Machine Learning Specialization with the goal of becoming data scientist in the future.
+Hello there ! I'm Nathan, a Machine Learning Engineer who pursued a degree in psychology and neuroscience and received training in Computer Science and Machine Learning from Holberton School, totaling 2580 hours in project methodology.
+
+I am passionate about using artificial intelligence to improve the quality of life for patients and the work environment for healthcare providers, as well as its use in various industries. I am particularly interested in discovering new learnings through different sectors. I have completed two portfolio projects. The first, [SurveyStorm](https://github.com/Sarolus/holberton_portfolio), involved creating an API, website, and mobile application for creating questionnaires. The second was a Machine Learning project in NLP in the field of psychology called [Sanopsy](https://www.eurasante.com/entreprises/sanopsy/), which was supported by Eurasanté.
+
+My Machine Learning skills include various types of learning, NLP, computer vision, time series forecasting, and classification models. I am open to assignments related to data processing and Machine Learning, as well as the Python domain.
 
 ## :bar_chart: GitHub Stats
 
@@ -35,15 +39,22 @@ Hello there ! I'm Nathan, currently student at Holberton School. I'm currently f
 
 ![](https://img.shields.io/badge/Tool-VScode-informational?style=flat&logo=visualstudio&logoColor=0aa6f4&color=f9db06)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=0aa6f4&color=f9db06)
+![](https://img.shields.io/badge/Tool-Spyder-informational?style=flat&logo=spyder-ide&logoColor=0aa6f4&color=f9db06)
+![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=0aa6f4&color=f9db06)
+![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=0aa6f4&color=f9db06)
+![](https://img.shields.io/badge/Tool-Scikit_learn-informational?style=flat&logo=scikit-learn&logoColor=0aa6f4&color=f9db06)
+![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=0aa6f4&color=f9db06)
 
 ### Framework
 
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=000000&color=f46320)
 ![](https://img.shields.io/badge/Framework-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=000000&color=f46320)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=000000&color=f46320)
 
 ### Databases
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=000000&color=a12110)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=000000&color=a12110)
 
 ### Environment
 
