@@ -2,11 +2,24 @@
 
 ## :man: About Me
 
-Hello there ! I'm Nathan, a Machine Learning Engineer who pursued a degree in psychology and neuroscience and received training in Computer Science and Machine Learning from Holberton School, totaling 2580 hours in project methodology.
+💬 Hello there ! I'm Nathan, a Machine Learning Engineer who pursued a degree in psychology and neuroscience and followed the curriculum of Holberton School in Computer Science and Machine Learning, totaling 2580 hours in project methodology.
 
-I am passionate about using artificial intelligence to improve the quality of life for patients and the work environment for healthcare providers, as well as its use in various industries. I'm also interested by various sciences and scientific researches, and how to provide Machine Learning tools to improves the working environment of Research Scientists. I am particularly interested in discovering new learnings through different sectors. I have completed two portfolio projects. The first, [SurveyStorm](https://github.com/Sarolus/holberton_portfolio), involved creating an API, website, and mobile application for creating questionnaires. The second was a Machine Learning project in NLP in the field of psychology called [Sanopsy](https://www.eurasante.com/entreprises/sanopsy/), which was supported by Eurasanté.
+Passionate about science and new technologies, I am highly interested in the field of Artificial Intelligence. My objective is to contribute to Machine Learning Research and Development, implementing innovative intelligent solutions for complex challenges across various industries.
 
-My Machine Learning skills include various types of learning, NLP, computer vision, time series forecasting, and classification models. I am open to assignments related to data processing and Machine Learning, as well as the Python domain.
+## 🎓 Key skills:
+🔹 Programming languages: C / C++, Python, JavaScript, SQL
+
+🔹 Machine Learning frameworks: Tensorflow, Keras, Scikit-learn, PyTorch
+
+🔹 Supervised, unsupervised, and reinforced learning
+
+🔹 Feedforward Neural Network, RNN, CNN, Autoencoder, RecNN, GAN, Modular Neural Network, Deep Neural Networks, machine learning models
+
+🔹 Data manipulation: Pandas, NumPy
+
+🔹 Data visualization: Matplotlib, Seaborn
+
+🔹 Databases: MySQL, PostgreSQL, MongoDB
 
 ## :bar_chart: GitHub Stats
 
